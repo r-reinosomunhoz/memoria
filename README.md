@@ -1,6 +1,6 @@
 # memoria
 
 # Esto falta por hacer 
-- [ ] Arreglar introducción
+- [x] Arreglar introducción
 - [ ] Agregar a la introducción definición de alometria
 - [ ] Formato ecuaciones
